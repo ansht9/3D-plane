@@ -1,0 +1,8 @@
+.env
+__pycache__/
+.DS_Store
+.venv
+results.json
+gym
+accounting
+uv.lock
